@@ -1,3 +1,5 @@
+// routes/index.js – handles all site page routes
+
 var express = require('express');
 var router = express.Router();
 
