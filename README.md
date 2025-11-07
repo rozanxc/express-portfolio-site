@@ -5,8 +5,8 @@ A super‑simple personal portfolio built with **ExpressJS** and **EJS**, struct
 
 ## Run locally
 
-npm install
-npm start
+-npm install
+-npm start
 ## open http://localhost:3000
 
 ## Render
