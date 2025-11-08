@@ -14,3 +14,16 @@ A super‑simple personal portfolio built with **ExpressJS** and **EJS**, struct
 ## Render
 
 Also hosted on render at " "
+
+
+## References
+
+This project was created using Express Generator and uses EJS as the templating engine.
+
+Some starter code for Express setup was referenced from:
+
+- ExpressJS Official Documentation: https://expressjs.com/
+- Express Generator Starter Template (auto-generated code)
+- Bootstrap Documentation: https://getbootstrap.com/
+- Font Awesome Icons: https://fontawesome.com/
+
